@@ -1,3 +1,3 @@
-# GitClass
+# Shifta 
 
 Descripción
